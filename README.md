@@ -1,0 +1,1 @@
+# Covid-Alzheimer-Brain-Tumor-Breast-Cancer-Pneumonia-Heart-Disease-Diabetes-Detection
